@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Table should render the product table 1`] = `
+<table>
+  <thead>
+    <tr>
+      <th>
+        Name
+      </th>
+      <th>
+        Price
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th
+        colSpan="2"
+      >
+        Sporting Goods
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <span
+          style={
+            Object {
+              "color": "black",
+            }
+          }
+        >
+          Football
+        </span>
+      </td>
+      <td>
+        $49.99
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span
+          style={
+            Object {
+              "color": "black",
+            }
+          }
+        >
+          Baseball
+        </span>
+      </td>
+      <td>
+        $9.99
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span
+          style={
+            Object {
+              "color": "red",
+            }
+          }
+        >
+          Basketball
+        </span>
+      </td>
+      <td>
+        $29.99
+      </td>
+    </tr>
+    <tr>
+      <th
+        colSpan="2"
+      >
+        Electronics
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <span
+          style={
+            Object {
+              "color": "black",
+            }
+          }
+        >
+          iPod Touch
+        </span>
+      </td>
+      <td>
+        $99.99
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span
+          style={
+            Object {
+              "color": "red",
+            }
+          }
+        >
+          iPhone 5
+        </span>
+      </td>
+      <td>
+        $399.99
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <span
+          style={
+            Object {
+              "color": "black",
+            }
+          }
+        >
+          Nexus 7
+        </span>
+      </td>
+      <td>
+        $199.99
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
